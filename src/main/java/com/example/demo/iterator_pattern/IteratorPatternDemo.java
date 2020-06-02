@@ -1,4 +1,4 @@
-package com.example.demo.IteratorPattern;
+package com.example.demo.iterator_pattern;
 
 /**
  * @author: ljavaw
